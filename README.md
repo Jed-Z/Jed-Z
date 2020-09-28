@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I have been a GitHub member for ![Years Badge](https://badges.pufler.dev/years/xJed)
 
 ![](https://komarev.com/ghpvc/?username=xJed)
 <!--
