@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I have been a GitHub member for ![Years Badge](https://badges.pufler.dev/years/xJed)
+I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/xJed)](https://badges.pufler.dev)
 
-![](https://komarev.com/ghpvc/?username=xJed)
+[![Views Count](https://komarev.com/ghpvc/?username=xJed)](https://github.com/antonkomarev/github-profile-views-counter)
+
 <!--
 **xJed/xJed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
