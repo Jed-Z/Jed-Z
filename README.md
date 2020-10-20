@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/xJed)](https://badges.pufler.dev)
+I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/Jed-Z)](https://badges.pufler.dev)
 
-[![Views Count](https://komarev.com/ghpvc/?username=xJed)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Views Count](https://komarev.com/ghpvc/?username=Jed-Z)](https://github.com/antonkomarev/github-profile-views-counter)
 
 <!--
-**xJed/xJed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jed-Z/Jed-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
