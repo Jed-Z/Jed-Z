@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/Jed-Z)](https://badges.pufler.dev)
-
 [![Views Count](https://komarev.com/ghpvc/?username=Jed-Z)](https://github.com/antonkomarev/github-profile-views-counter)
 
 <!--
