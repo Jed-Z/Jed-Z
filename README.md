@@ -17,8 +17,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [用树莓派控制 USB 小灯并接入 Apple HomeKit](https://www.jeddd.com/article/control-usb-light-on-raspberry-pi-with-homekit.html)
 - [疫情下的第六学期：2021届计算机保研经历（南大/中大/哈深/北航/计算所/中科大/北大/浙大）](https://www.jeddd.com/article/cs-baoyan.html)
 - [《Go 语言之旅》练习题解答代码（并发部分）](https://www.jeddd.com/article/a-tour-of-go-exercises-concurrency.html)
 - [《Go 语言之旅》练习题解答代码（方法和接口部分）](https://www.jeddd.com/article/a-tour-of-go-exercises-methods.html)
-- [《Go 语言之旅》练习题解答代码（基础部分）](https://www.jeddd.com/article/a-tour-of-go-exercises-basics.html)
 <!-- BLOG-POST-LIST:END -->
