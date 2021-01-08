@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jed</h1>
-<h3 align="center">A senior CS student at SYSU</h3>
+<h3 align="center"><img src="https://komarev.com/ghpvc/?username=jed-z&label=Profile%20views&color=1b98f8&style=flat" alt="jed-z" /> A senior CS student at SYSU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jed-z&label=Profile%20views&color=1b98f8&style=flat" alt="jed-z" /> </p>
 
